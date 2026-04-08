@@ -9,7 +9,7 @@
 - 来源：Kaggle 公开数据集
 
 ## 项目结构
-- `student_score_prediction.ipynb`：完整的数据分析、特征工程、建模与预测代码
+- `Predicting Student Test Scores.ipynb`：完整的数据分析、特征工程、建模与预测代码
 
 ## 方法
 - 数据预处理：缺失值检查、有序变量映射、独热编码
